@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Hyesu Yoon 👋
+# Hi there, I'm Hyesu Yun 👋
 
 **Antibody Drug Developer | 8 Years Experience | Neurodegenerative Disease Targets**
 
