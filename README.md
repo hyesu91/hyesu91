@@ -52,7 +52,7 @@
 `Assay Setup & Validation` `SOP Establishment` `ADA Assay` `Data Analysis & Interpretation`
 
 **Imaging & Histology**
-`IHC` `IF` `ICC` `TEM` `Dot blot` `Confocal Imaging` `Fluorescence Imaging` `Frozen Block` `Slide Preparation` `Human Brain` `Mouse Brain`
+`IHC` `IF` `ICC` `TEM` `Dot blot` `Confocal Imaging` `Fluorescence Imaging` `Frozen Section` `Paraffin Section` `Human Brain` `Mouse Brain`
 
 ---
 
