@@ -34,8 +34,8 @@
 
 ## 🛠️ Skills
 
-**Antigen Analysis**
-`SDS-PAGE` `SEC-HPLC` `SPR` `DLS` `Recombinant Protein Purification`
+**Antigen & Antibody Production**
+`Antigen Production` `Antibody Production` `Recombinant Protein Expression` `IgG Purification` `SDS-PAGE` `SEC-HPLC` `SPR` `DLS`
 
 **Antibody Screening**
 `Hybridoma` `Phage Display` `ELISA` `FACS` `Cell-based Assay` `Competitive Binding Assay`
