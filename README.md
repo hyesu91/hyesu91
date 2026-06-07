@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://hyesu91.github.io/images/profile.png" width="140" style="border-radius:50%; margin-bottom:12px;" />
+
 # Hi there, I'm Hyesu Yun 👋
 
 **Antibody Drug Developer | 8 Years Experience | Neurodegenerative Disease Targets**
