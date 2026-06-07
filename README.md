@@ -52,7 +52,7 @@
 `Assay Setup & Validation` `SOP Establishment` `ADA Assay` `Data Analysis & Interpretation`
 
 **Imaging & Histology**
-`IHC` `IF` `ICC` `TEM` `Confocal Imaging` `Fluorescence Imaging`
+`IHC` `IF` `ICC` `TEM` `Dot blot` `Confocal Imaging` `Fluorescence Imaging` `Frozen Block` `Slide Preparation`
 
 ---
 
