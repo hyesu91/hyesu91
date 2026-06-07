@@ -36,11 +36,14 @@
 
 ## 🛠️ Skills
 
-**Antigen & Antibody Production**
-`Antigen Production` `Antibody Production` `Recombinant Protein Expression` `IgG Purification` `SDS-PAGE` `SEC-HPLC` `SPR` `DLS`
+**Antigen Production & Characterization**
+`Antigen Production` `Recombinant Protein Expression` `SDS-PAGE` `SEC-HPLC` `SPR` `DLS` `Dot blot`
+
+**Antibody Production**
+`Recombinant Antibody Expression` `IgG Purification` `Hybridoma-based Production`
 
 **Antibody Screening**
-`Hybridoma` `Phage Display` `ELISA` `FACS` `Cell-based Assay` `Competitive Binding Assay`
+`Hybridoma` `Phage Display` `ELISA` `FACS` `Dot blot` `Cell-based Assay` `Competitive Binding Assay`
 
 **Neurodegenerative Disease Research**
 `Amyloid-β` `Tau` `α-Synuclein` `Neuronal Cell Differentiation & Culture` `Neuronal Cell Model` `In Vivo Efficacy Study`
