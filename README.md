@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요, 윤혜수입니다 👋
+# Hi there, I'm Hyesu Yoon 👋
 
 **Antibody Drug Developer | 8 Years Experience | Neurodegenerative Disease Targets**
 
@@ -12,11 +12,11 @@
 
 ## 🧬 About Me
 
-- 🔭 **Antibody drug development** 분야에서 8년간 연구 중입니다
-- 🧠 **Neurodegenerative disease** (Alzheimer's, Parkinson's) target antibody 개발에 집중하고 있습니다
-- 🎯 Antigen production → Candidate screening → Lead clone selection까지 **full-cycle** 경험
-- ⚗️ 각종 **assay development & validation** 업무를 주도적으로 수행 중
-- 💬 Antibody 관련 기술이나 뇌질환 연구에 대해 편하게 질문해 주세요!
+- 🔭 8 years of experience in **antibody drug development**
+- 🧠 Focused on therapeutic antibody development targeting **neurodegenerative diseases** (Alzheimer's, Parkinson's)
+- 🎯 Full-cycle experience: Antigen production → Candidate screening → Lead clone selection
+- ⚗️ Leading **assay development & validation** to support antibody discovery programs
+- 💬 Feel free to ask about antibody technologies or neurodegenerative disease research!
 
 ---
 
@@ -50,6 +50,6 @@
 
 <div align="center">
 
-*"과학에 대한 열정으로 더 나은 치료제를 향해 나아갑니다"*
+*"Driven by a passion for science, working toward better therapeutics."*
 
 </div>
