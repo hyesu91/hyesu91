@@ -41,7 +41,7 @@
 `Hybridoma` `Phage Display` `ELISA` `Cell-based Assay` `Competitive Binding Assay`
 
 **Neurodegenerative Disease Research**
-`Amyloid-β` `Tau` `α-Synuclein` `Neuronal Cell Model` `In Vivo Efficacy Study`
+`Amyloid-β` `Tau` `α-Synuclein` `Neuronal Cell Differentiation & Culture` `Neuronal Cell Model` `In Vivo Efficacy Study`
 
 **Assay Development**
 `Assay Setup & Validation` `SOP Establishment` `Data Analysis & Interpretation`
