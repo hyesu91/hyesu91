@@ -38,7 +38,7 @@
 `SDS-PAGE` `SEC-HPLC` `SPR` `DLS` `Recombinant Protein Purification`
 
 **Antibody Screening**
-`Hybridoma` `Phage Display` `ELISA` `Cell-based Assay` `Competitive Binding Assay`
+`Hybridoma` `Phage Display` `ELISA` `FACS` `Cell-based Assay` `Competitive Binding Assay`
 
 **Neurodegenerative Disease Research**
 `Amyloid-β` `Tau` `α-Synuclein` `Neuronal Cell Differentiation & Culture` `Neuronal Cell Model` `In Vivo Efficacy Study`
