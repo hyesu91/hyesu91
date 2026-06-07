@@ -43,6 +43,9 @@
 **Neurodegenerative Disease Research**
 `Amyloid-β` `Tau` `α-Synuclein` `Neuronal Cell Differentiation & Culture` `Neuronal Cell Model` `In Vivo Efficacy Study`
 
+**Molecular Biology & Cell Engineering**
+`Cloning` `Transfection` `Recombinant Vector Construction`
+
 **Assay Development**
 `Assay Setup & Validation` `SOP Establishment` `Data Analysis & Interpretation`
 
