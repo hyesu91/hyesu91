@@ -49,7 +49,7 @@
 `Amyloid-β` `Tau` `α-Synuclein` `Neuronal Cell Differentiation & Culture` `Neuronal Cell Model` `In Vivo Efficacy Study`
 
 **Molecular Biology & Cell Engineering**
-`Cloning` `Transfection` `Recombinant Vector Construction` `Microbial Culture` `DNA Preparation`
+`Cloning` `Transfection` `Recombinant Vector Construction` `Microbial Culture` `DNA Preparation` `Gel Electrophoresis`
 
 **Assay Development**
 `Assay Setup & Validation` `SOP Establishment` `ADA Assay` `Data Analysis & Interpretation`
