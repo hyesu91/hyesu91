@@ -46,6 +46,9 @@
 **Assay Development**
 `Assay Setup & Validation` `SOP Establishment` `Data Analysis & Interpretation`
 
+**Imaging & Histology**
+`IHC` `IF` `ICC` `TEM` `Confocal Imaging` `Fluorescence Imaging`
+
 ---
 
 <div align="center">
