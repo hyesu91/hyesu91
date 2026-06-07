@@ -47,7 +47,7 @@
 `Cloning` `Transfection` `Recombinant Vector Construction`
 
 **Assay Development**
-`Assay Setup & Validation` `SOP Establishment` `Data Analysis & Interpretation`
+`Assay Setup & Validation` `SOP Establishment` `ADA Assay` `Data Analysis & Interpretation`
 
 **Imaging & Histology**
 `IHC` `IF` `ICC` `TEM` `Confocal Imaging` `Fluorescence Imaging`
