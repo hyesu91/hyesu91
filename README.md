@@ -48,14 +48,6 @@
 
 ---
 
-## 📁 Projects
-
-| Repository | Description |
-|-----------|-------------|
-| [hyesu91_01](https://github.com/hyesu91/hyesu91_01) | Personal Introduction Page |
-
----
-
 <div align="center">
 
 *"과학에 대한 열정으로 더 나은 치료제를 향해 나아갑니다"*
